@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 27ac3e9b-39c1-cbe7-28b7-e56162cd0d36
 ---
@@ -371,7 +374,7 @@ Catullus, Gaius Valerius. _The Poems of Catullus_. Translated by Horace Gregory.
 {{< tdopen >}}
 Complete collection of Catullus poems, each with an English translation:  
   
-[Complete list of the poems of Catullus](https://enacademic.com/dic.nsf/enwiki/6850478)  
+[Complete list of the poems of Catullus](https://www.poetryintranslation.com/PITBR/Latin/Catullus.php)  
   
 A Variety of Catullus Resources:  
   
