@@ -2,7 +2,7 @@
 content_type: resource
 description: A collage of magnetic poetry and pages from a French dictionary, as posted
   by surrealmuse on flick.com.(As posted by surrealmuse on flick.com.)
-file: /courses/es-261-poetry-in-translation-spring-2006/cc12f3111aeb4ed8644f79787a04705c_magpoetry.jpg
+file: /ol-ocw-studio-app/courses/es-261-poetry-in-translation-spring-2006/cc12f3111aeb4ed8644f79787a04705c_magpoetry.jpg
 file_size: 64455
 file_type: image/jpeg
 image_metadata:
