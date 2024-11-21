@@ -59,8 +59,6 @@ Online Translations:
 
 Online Translations:
 
-[Love Lyrics by Alexandr Pushkin](https://www.pushkinhouse.org/events/2019/2/26/pushkins-love-lyrics)
-
 [I Loved You](http://www.cordula.ws/poems/ilovedyou.html)
 
 [Pushkin: I Loved You Once](http://max.mmlc.northwestern.edu/~mdenner/Demo/texts/loved_you_once.htm)
@@ -81,7 +79,7 @@ Background:
 
 [Poems by Charles Baudelaire](http://www.poets.org/poet.php/prmPID/607)
 
-[Information about Charles Baudelaire and *Les Fleurs de Mal*](http://fleursdumal.org/)   
+[Information about Charles Baudelaire and *Les Fleurs de Mal*](http://fleursdumal.org/)     
 [Lecture/Seminar Schedule for 1999/2000](http://eserve.org.uk/tmc/19/sched.htm): weeks 11 and 12 of semester 1, and weeks 1 and 2 of semester 2.
 
 {{< tdclose >}}{{< tdopen >}}
@@ -191,10 +189,6 @@ Garca Lorca, Federico. *Selected Poems*. Translated by Merryn Williams. Newcastl
 ———. *The Poetical Works of Federico Garca Lorca*. Edited by Christopher Mauer. New York, NY: Farrar Straus Giroux, 1988. ISBN: 9780374520830.
 
 [Morpheme Tales](http://morphemetales.wordpress.com/category/translations/)
-
-*Further Readings*
-
-[An Essay on Lorca's Sexuality and Censorship](http://users.ipfw.edu/jehle/deisenbe/).
 
 {{< tdclose >}}{{< tdopen >}}
 n/a
@@ -360,7 +354,7 @@ A Variety of Catullus Resources:
 
 Students read the following chapters from The poem behind the poem: translating Asian poetry. Edited by Frank Stewart. Port Townsend, WA: Copper Canyon Press, 2004. ISBN: 9781556592003
 
-The Chinese Poem: The Visible and the Invisible in Chinese Poetry, by   
+The Chinese Poem: The Visible and the Invisible in Chinese Poetry, by     
 Michelle Yeh
 
 Forms Transformed: Japanese Verse in English Translation, by Hiroaki Sato
@@ -369,10 +363,10 @@ Midwifing the Underpoem, by Leza Lowitz
 
 Once More, on the Empty Mountain, by J. P. Seaton
 
-The Poem Behind the Poem: Literary Translation as American Poetry, by Tony   
+The Poem Behind the Poem: Literary Translation as American Poetry, by Tony     
 Barnstone
 
-A Poem Should Mean *and* Be: Remarks on the Translation of   
+A Poem Should Mean *and* Be: Remarks on the Translation of     
 Japanese Poetry, by William I. Elliott
 
 Sustenance: A Life in Translation, by Sam Hamill
@@ -427,11 +421,11 @@ Kacian, Jim, ed. *Pegging The Wind*. Winchester, VA: Red Moon Press, 2003, pp. 2
 
 {{< tdclose >}}{{< tdopen >}}
 
-[Simply Haiku](http://simplyhaiku.com/)
+[Simply Haiku](https://simplyhaiku.thehaikufoundation.org/archives.html)
 
 [Haiku, Haibun, Haiga, Photohaiku, Arthaiku](http://raysweb.net/haiku/)
 
-[Robert Hass on Haiku](http://www.english.uiuc.edu/maps/poets/g_l/haas/haiku.htm)
+[Robert Hass on Haiku](https://www.modernamericanpoetry.org/robert-hass-haiku)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -565,7 +559,7 @@ Prose Translations:
 
 [Sir Gawain and The Green Knight](http://www.lib.rochester.edu/CAMELOT/sggk.htm)
 
-[Representative Poetry Online](https://rpo.library.utoronto.ca/poem/62.html)
+[Representative Poetry Online](https://rpo.library.utoronto.ca/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -583,7 +577,7 @@ Background:
 The Canterbury Tales
 {{< tdclose >}}{{< tdopen >}}
 
-Sections read: The General Prologue through line 42, The Wife of Bath's Prologue, The Cook's Prologue and The Cook's Tale.   
+Sections read: The General Prologue through line 42, The Wife of Bath's Prologue, The Cook's Prologue and The Cook's Tale.     
 This work should be read in the original, in addition to the translations. For example, the following is a recent edition:
 
 Chaucer, Geoffrey. *The Canterbury Tales*. Edited, Introduced, and Notes by Jill Mann. London, UK: Penguin Classics, 2005. ISBN: 9780140422344.
@@ -632,7 +626,7 @@ F. Huppé, Bernard, tr. *Beowulf, a New Translation*. Binghamton, NY: Longman, 2
 
 [Copy of the original *Beowulf* text](http://www.gutenberg.org/ebooks/16328).
 
-[Recording of the Old English version of](https://www.youtube.com/watch?v=_K13GJkGvDw) [*Beowulf*](https://www.youtube.com/watch?v=_K13GJkGvDw)[*.*](http://www.kami.demon.co.uk/gesithas/readings/bss_oe.html) (YouTube video). 
+[Recording of the Old English version of *Beowulf*](https://www.youtube.com/watch?v=_K13GJkGvDw). (YouTube video).
 
 [Recording of Seamus Heaney reading excerpts from his translation of](https://www.youtube.com/watch?v=AaB0trCztM0) [*Beowulf*](https://www.youtube.com/watch?v=AaB0trCztM0)*.* (YouTube video)
 
@@ -681,8 +675,6 @@ Selected Rubaiyat
 *Rumi*
 
 *Ghazal 1919 (This is Love …)*
-
-[Rumi: A Translation in Comparison](http://www.blissbat.net/rambles/rumi_compare.html)
 
 Jalūl ad-Din Rūumi, Maulana. *Love is a Stranger: Selected Lyric Poetry of Jelaluddin Rumi*. Translated by Kabir Edmund Helminski. Putney, VT: Threshold Books, c1993. ISBN: 9780939660322.
 
@@ -758,7 +750,7 @@ Imelda Valerianus-Fermina
 
 Belen Kock-Marchena
 
-*Afrikaans Poets*   
+*Afrikaans Poets*     
 Antjie Krog
 
 *Swahili Poets*
@@ -777,14 +769,14 @@ Imelda Valerianus-Fermina, "Muhe" ("Woman")
 
 Belen Kock-Marchena, "Poem"
 
-*Afrikaans Poems*   
+*Afrikaans Poems*    
 Antjie Krog, ["Neither Family Nor Friends](https://www.poemhunter.com/poem/niether-family-nor-friends/)"
 
-Antjie Krog,   
+Antjie Krog,     
 ["My Words of Love Grow More Tenuous than the Sound of Lilac](https://www.poetryinternational.org/pi/poem/5398/auto/0/0/Antjie-Krog/en/tile)"
 
-*Swahili Poems*   
-Anonymous,   
+*Swahili Poems*     
+Anonymous,     
 [The Swahili Coast](http://www.pbs.org/wonders/Episodes/Epi2/2_cult2a.htm)
 
 {{< tdclose >}}{{< tdopen >}}
