@@ -45,7 +45,7 @@ Ja vas lyubil (I loved you)
 
 *Ty i vy (You and Thou)*
 
-[Original in Cyrillic](http://pushkin.niv.ru/pushkin/text/stihi/stihotvoreniya-1828.htm#s10)
+[Original in Cyrillic](https://ruverses.com/alexander-pushkin/thou-and-you/4103/)
 
 Online Translations:
 
@@ -55,7 +55,7 @@ Online Translations:
 
 *Ja vas lyubil (I loved you)*
 
-[Original in Cyrillic](http://pushkin.niv.ru/pushkin/text/stihi/stihotvoreniya-1829.htm#s36)
+[Original in Cyrillic](https://allpoetry.com/poem/13176407-I-Loved-You----translation-of-Pushkin-s--quot-Ya-vas-lyubil-quot--by-Dave-Bennett)
 
 Online Translations:
 
@@ -79,7 +79,7 @@ Background:
 
 [Poems by Charles Baudelaire](http://www.poets.org/poet.php/prmPID/607)
 
-[Information about Charles Baudelaire and *Les Fleurs de Mal*](http://fleursdumal.org/)     
+[Information about Charles Baudelaire and *Les Fleurs de Mal*](http://fleursdumal.org/)        
 [Lecture/Seminar Schedule for 1999/2000](http://eserve.org.uk/tmc/19/sched.htm): weeks 11 and 12 of semester 1, and weeks 1 and 2 of semester 2.
 
 {{< tdclose >}}{{< tdopen >}}
@@ -250,7 +250,7 @@ The first Web site includes 26 translations of the poem, some of them into langu
 
 [Sappho and The World of Lesbian Poetry](http://community.middlebury.edu/~harris/Translations/Sappho.html)
 
-[Isle of Lesbos](http://www.sappho.com/poetry/sappho.html#Some)
+[Isle of Lesbos](https://www.worldhistory.org/Sappho_of_Lesbos/)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -354,7 +354,7 @@ A Variety of Catullus Resources:
 
 Students read the following chapters from The poem behind the poem: translating Asian poetry. Edited by Frank Stewart. Port Townsend, WA: Copper Canyon Press, 2004. ISBN: 9781556592003
 
-The Chinese Poem: The Visible and the Invisible in Chinese Poetry, by     
+The Chinese Poem: The Visible and the Invisible in Chinese Poetry, by        
 Michelle Yeh
 
 Forms Transformed: Japanese Verse in English Translation, by Hiroaki Sato
@@ -363,10 +363,10 @@ Midwifing the Underpoem, by Leza Lowitz
 
 Once More, on the Empty Mountain, by J. P. Seaton
 
-The Poem Behind the Poem: Literary Translation as American Poetry, by Tony     
+The Poem Behind the Poem: Literary Translation as American Poetry, by Tony        
 Barnstone
 
-A Poem Should Mean *and* Be: Remarks on the Translation of     
+A Poem Should Mean *and* Be: Remarks on the Translation of        
 Japanese Poetry, by William I. Elliott
 
 Sustenance: A Life in Translation, by Sam Hamill
@@ -577,7 +577,7 @@ Background:
 The Canterbury Tales
 {{< tdclose >}}{{< tdopen >}}
 
-Sections read: The General Prologue through line 42, The Wife of Bath's Prologue, The Cook's Prologue and The Cook's Tale.     
+Sections read: The General Prologue through line 42, The Wife of Bath's Prologue, The Cook's Prologue and The Cook's Tale.        
 This work should be read in the original, in addition to the translations. For example, the following is a recent edition:
 
 Chaucer, Geoffrey. *The Canterbury Tales*. Edited, Introduced, and Notes by Jill Mann. London, UK: Penguin Classics, 2005. ISBN: 9780140422344.
@@ -654,7 +654,7 @@ Background:
 
 [Rubaiyat](http://en.wikipedia.org/wiki/Rubaiyat)
 
-[Rubaiyat of Omar Khayyám](http://classics.mit.edu/Khayyam/rubaiyat.html)
+[Rubaiyat of Omar Khayyám](https://classics.mit.edu/Khayyam/rubaiyat.html)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -750,7 +750,7 @@ Imelda Valerianus-Fermina
 
 Belen Kock-Marchena
 
-*Afrikaans Poets*     
+*Afrikaans Poets*        
 Antjie Krog
 
 *Swahili Poets*
@@ -769,14 +769,14 @@ Imelda Valerianus-Fermina, "Muhe" ("Woman")
 
 Belen Kock-Marchena, "Poem"
 
-*Afrikaans Poems*    
+*Afrikaans Poems*       
 Antjie Krog, ["Neither Family Nor Friends](https://www.poemhunter.com/poem/niether-family-nor-friends/)"
 
-Antjie Krog,     
+Antjie Krog,        
 ["My Words of Love Grow More Tenuous than the Sound of Lilac](https://www.poetryinternational.org/pi/poem/5398/auto/0/0/Antjie-Krog/en/tile)"
 
-*Swahili Poems*     
-Anonymous,     
+*Swahili Poems*        
+Anonymous,        
 [The Swahili Coast](http://www.pbs.org/wonders/Episodes/Epi2/2_cult2a.htm)
 
 {{< tdclose >}}{{< tdopen >}}
