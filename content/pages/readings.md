@@ -31,9 +31,9 @@ ADDITIONAL INFORMATION
 
 Background:
 
-[Aleksandr Pushkin](http://en.wikipedia.org/wiki/Aleksandr_Pushkin)
+{{% resource_link "3b1b1a4f-297b-4d84-85f2-8a0df1bf73be" "Aleksandr Pushkin" %}}
 
-[Pushkin's Biography](http://educ.jmu.edu/~pleckesg/Pushkin/Bio.html)
+{{% resource_link "de55883b-a734-4b47-a6d0-b8f8c5b13dfe" "Pushkin's Biography" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -45,26 +45,26 @@ Ja vas lyubil (I loved you)
 
 *Ty i vy (You and Thou)*
 
-[Original in Cyrillic](https://ruverses.com/alexander-pushkin/thou-and-you/4103/)
+{{% resource_link "e1228c1a-e2a3-483c-8a11-8214be24efd6" "Original in Cyrillic" %}}
 
 Online Translations:
 
-["You and thee" - Alexandr S Pushkin](http://www.randianderson.com/pushkin-tu-vous-russian-english-translation/)
+{{% resource_link "9e595589-596f-4db6-8cd0-ff6ab06c3175" "\"You and thee\" - Alexandr S Pushkin" %}}
 
-[Thou and You](https://folkways.si.edu/larissa-gatova/alexander-pushkin-thou-and-you/poetry/track/smithsonian)
+{{% resource_link "cb2fa197-783b-4db0-bca4-449310ad32b4" "Thou and You" %}}
 
 *Ja vas lyubil (I loved you)*
 
-[Original in Cyrillic](https://allpoetry.com/poem/13176407-I-Loved-You----translation-of-Pushkin-s--quot-Ya-vas-lyubil-quot--by-Dave-Bennett)
+{{% resource_link "f4da1618-bde6-439d-b1af-3ac5ac371803" "Original in Cyrillic" %}}
 
 Online Translations:
 
-[I Loved You](http://www.cordula.ws/poems/ilovedyou.html)
+{{% resource_link "ace053f3-fbc0-4ffe-ad8c-92b3cd770721" "I Loved You" %}}
 
-[Pushkin: I Loved You Once](https://allpoetry.com/poem/14327886-I-Loved-You-Once-by-Alexander-Sergeyevich-Pushkin)
+{{% resource_link "60286ae4-8ea4-492b-9f93-5f480ee92d0c" "Pushkin: I Loved You Once" %}}
 
 {{< tdclose >}}{{< tdopen >}}
-[The Alexander Pushkin Homepage](http://members.tripod.com/~halonine/pushkin.htm)
+{{% resource_link "0e225090-0130-45ec-ad7e-f7c9969f47e8" "The Alexander Pushkin Homepage" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
@@ -73,14 +73,14 @@ Online Translations:
 
 Background:
 
-[Charles Baudelaire](http://en.wikipedia.org/wiki/Charles_Baudelaire)
+{{% resource_link "5779ed8a-04a1-4c74-95fe-ec8b636207c2" "Charles Baudelaire" %}}
 
-[Charles Baudelaire (1821-1867)](http://www.poemhunter.com/charles-baudelaire/biography/)
+{{% resource_link "3272a89d-c435-40a3-9f23-07e2637d5e0c" "Charles Baudelaire (1821-1867)" %}}
 
-[Poems by Charles Baudelaire](http://www.poets.org/poet.php/prmPID/607)
+{{% resource_link "b343d589-2530-44c1-a62a-a4b0c0a4943b" "Poems by Charles Baudelaire" %}}
 
-[Information about Charles Baudelaire and *Les Fleurs de Mal*](http://fleursdumal.org/)           
-[Lecture/Seminar Schedule for 1999/2000](http://eserve.org.uk/tmc/19/sched.htm): weeks 11 and 12 of semester 1, and weeks 1 and 2 of semester 2.
+{{% resource_link "36d11079-83ed-4fbb-a345-f601616ab78d" "Information about Charles Baudelaire and *Les Fleurs de Mal*" %}}           
+{{% resource_link "d228bdba-0f84-4f99-9988-cf06c47e0e95" "Lecture/Seminar Schedule for 1999/2000" %}}: weeks 11 and 12 of semester 1, and weeks 1 and 2 of semester 2.
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -120,19 +120,19 @@ The poem from the book, Reed, Jeremy. *You'd sleep with Anything*, and written "
 
 Online Translations:
 
-[*Le Chat*](http://fleursdumal.org/)
+{{% resource_link "36d11079-83ed-4fbb-a345-f601616ab78d" "*Le Chat*" %}}
 
-[*Le Lethe*](http://fleursdumal.org/)
+{{% resource_link "36d11079-83ed-4fbb-a345-f601616ab78d" "*Le Lethe*" %}}
 
-[*A une passante*](http://fleursdumal.org/)
+{{% resource_link "36d11079-83ed-4fbb-a345-f601616ab78d" "*A une passante*" %}}
 
-[*Harmonie du soir*](http://fleursdumal.org/)
+{{% resource_link "36d11079-83ed-4fbb-a345-f601616ab78d" "*Harmonie du soir*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
-[Baudelaire Online](http://fleursdumal.org/)
+{{% resource_link "36d11079-83ed-4fbb-a345-f601616ab78d" "Baudelaire Online" %}}
 
-[Charles Baudelaire (1821-1867)](http://www.jahsonic.com/CharlesBaudelaire.html)
+{{% resource_link "cdc4d910-3fe2-49c9-8e9d-4c0626b0a0d5" "Charles Baudelaire (1821-1867)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -142,11 +142,11 @@ Online Translations:
 
 Background:
 
-[Federico Garcia Lorca](http://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca)
+{{% resource_link "0ad8ac4f-3c6b-40f1-a923-52aabb0d664b" "Federico Garcia Lorca" %}}
 
-[Federico Garcia Lorca: Biography and Complete Work](https://poets.org/poet/federico-garcia-lorca)
+{{% resource_link "5f95d896-c6e4-43f6-8123-fc816611bff9" "Federico Garcia Lorca: Biography and Complete Work" %}}
 
-[The Academy of American Poets: Federico Garcia Lorca](https://poets.org/poet/federico-garcia-lorca)
+{{% resource_link "5f95d896-c6e4-43f6-8123-fc816611bff9" "The Academy of American Poets: Federico Garcia Lorca" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -188,7 +188,7 @@ Garca Lorca, Federico. *Selected Poems*. Translated by Merryn Williams. Newcastl
 
 ———. *The Poetical Works of Federico Garca Lorca*. Edited by Christopher Mauer. New York, NY: Farrar Straus Giroux, 1988. ISBN: 9780374520830.
 
-[Morpheme Tales](http://morphemetales.wordpress.com/category/translations/)
+{{% resource_link "33c0d94c-bab8-4fd3-b4b8-062f8b8d9f88" "Morpheme Tales" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 n/a
@@ -200,15 +200,15 @@ n/a
 
 Background:
 
-[Sappho](http://en.wikipedia.org/wiki/Sappho)
+{{% resource_link "0f35af44-105a-4fca-bcb9-d8f1bb3e5bc4" "Sappho" %}}
 
-[Introduction](http://www.sacred-texts.com/cla/usappho/sph01.htm)
+{{% resource_link "0a9eb81b-4cb8-4980-a94e-3de029a513e7" "Introduction" %}}
 
-[Isle of Lesbos](https://www.britannica.com/place/Lesbos-island-Greece)
+{{% resource_link "802d7157-3abf-4178-9b62-e5e9744d7d77" "Isle of Lesbos" %}}
 
 All of the Poems listed have Translations given on:
 
-[Internet Sacred Text Archive](http://www.sacred-texts.com/cla/)
+{{% resource_link "a330f6b2-7901-4eb1-9767-9ac8c869d5ae" "Internet Sacred Text Archive" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -226,37 +226,37 @@ That one Seems to Me the Equal of the Gods …
 
 This is the only complete Sappho poem we have.
 
-[Sappho (c.600 BCE)](http://departments.kings.edu/womens_history/sapph.html)
+{{% resource_link "b68a0463-cb50-418c-8670-6a561b1101af" "Sappho (c.600 BCE)" %}}
 
-[Sappho's Hymn to Aphrodite](https://diotima-doctafemina.org/translations/greek/sapphos-hymn-to-aphrodite/)
+{{% resource_link "a15e6623-0084-4570-81f9-2dd24af416ea" "Sappho's Hymn to Aphrodite" %}}
 
 *The Moon has Set …*
 
-[Sappho 'The Moon is Down'](http://www.tonykline.co.uk/PITBR/Greek/Sappho.htm#_Toc76357055)
+{{% resource_link "d057e125-c733-4235-b899-a9a1d843891d" "Sappho 'The Moon is Down'" %}}
 
 *Hail, Gentle Evening, that bringst back …*
 
-[Sappho 'Hesperus, You Bring Back Again'](http://www.tonykline.co.uk/PITBR/Greek/Sappho.htm#_Toc76357054)
+{{% resource_link "cc5efed8-75d2-4e54-9d1f-85cc30334910" "Sappho 'Hesperus, You Bring Back Again'" %}}
 
 *That one Seems to Me the Equal of the Gods …*
 
 The first Web site includes 26 translations of the poem, some of them into languages other than English.
 
-[Sappho: Poem of Jealousy](http://www.bopsecrets.org/gateway/passages/sappho.htm)
+{{% resource_link "16c3b4c2-4b15-44d3-adad-e6338d6b979c" "Sappho: Poem of Jealousy" %}}
 
-[Sappho (c.600 BCE)](http://departments.kings.edu/womens_history/sapph.html)
+{{% resource_link "b68a0463-cb50-418c-8670-6a561b1101af" "Sappho (c.600 BCE)" %}}
 
-[Sappho](http://www.tonykline.co.uk/PITBR/Greek/Sappho.htm#_Toc76357046)
+{{% resource_link "2eb1c9c2-51b7-4191-92a3-fc148398b497" "Sappho" %}}
 
-[Sappho and The World of Lesbian Poetry](http://community.middlebury.edu/~harris/Translations/Sappho.html)
+{{% resource_link "c4dafb99-559b-4e26-ae88-370e9d9d7226" "Sappho and The World of Lesbian Poetry" %}}
 
-[Isle of Lesbos](https://www.worldhistory.org/Sappho_of_Lesbos/)
+{{% resource_link "b89c5f1e-4f67-4efd-bef1-2bd8b9adc3dc" "Isle of Lesbos" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
 The following site has been mentioned above and has a great collection of links to translations of Sappho poetry:
 
-[Sappho (c.600 BCE)](http://departments.kings.edu/womens_history/sapph.html)
+{{% resource_link "b68a0463-cb50-418c-8670-6a561b1101af" "Sappho (c.600 BCE)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -266,9 +266,9 @@ The following site has been mentioned above and has a great collection of links 
 
 Background:
 
-[Catullus](http://en.wikipedia.org/wiki/Catullus)
+{{% resource_link "c3117df8-db93-42e8-8861-07c311250950" "Catullus" %}}
 
-[Gaius Valerius Catullus Biography](http://www.bookrags.com/biography/gaius-valerius-catullus/)
+{{% resource_link "ab454cfa-98ca-4e27-9c70-f3ec5d9838a2" "Gaius Valerius Catullus Biography" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -340,11 +340,11 @@ Catullus, Gaius Valerius. *The Poems of Catullus*. Translated by Horace Gregory.
 
 Complete collection of Catullus poems, each with an English translation:
 
-[Complete list of the poems of Catullus](https://www.poetryintranslation.com/PITBR/Latin/Catullus.php)
+{{% resource_link "528a1fc5-4dec-4744-9efc-4251a6d8f1b7" "Complete list of the poems of Catullus" %}}
 
 A Variety of Catullus Resources:
 
-[Gaius Valerius Catullus](http://www.negenborn.net/catullus/)
+{{% resource_link "a3760b57-6f90-49b6-b0a8-519b21506acf" "Gaius Valerius Catullus" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -377,7 +377,7 @@ Rather than comparing a large number of haikus translations, the class read a va
 
 Background:
 
-[Haiku](http://en.wikipedia.org/wiki/Haiku)
+{{% resource_link "fbcc4552-d605-41e9-8b65-fbcedc998493" "Haiku" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -397,7 +397,7 @@ Modern International Haiku
 
 These haikus illustrate the kinds of stereotypes Americans have about the haiku form.
 
-[Haiku Error Messages](https://www.gnu.org/fun/jokes/error-haiku.html)
+{{% resource_link "15b9d941-f6b7-4527-8e66-25171aad5508" "Haiku Error Messages" %}}
 
 *Classic Japanese Haiku*
 
@@ -421,11 +421,11 @@ Kacian, Jim, ed. *Pegging The Wind*. Winchester, VA: Red Moon Press, 2003, pp. 2
 
 {{< tdclose >}}{{< tdopen >}}
 
-[Simply Haiku](https://simplyhaiku.thehaikufoundation.org/archives.html)
+{{% resource_link "2b4d5249-0549-4251-9ddc-aee6d42058a5" "Simply Haiku" %}}
 
-[Haiku, Haibun, Haiga, Photohaiku, Arthaiku](http://raysweb.net/haiku/)
+{{% resource_link "28aa7936-3cc6-4dc0-bf7a-af8c65a02c67" "Haiku, Haibun, Haiga, Photohaiku, Arthaiku" %}}
 
-[Robert Hass on Haiku](https://www.modernamericanpoetry.org/robert-hass-haiku)
+{{% resource_link "021074e1-adab-4ca3-9845-8f951731aa01" "Robert Hass on Haiku" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -435,17 +435,17 @@ Kacian, Jim, ed. *Pegging The Wind*. Winchester, VA: Red Moon Press, 2003, pp. 2
 
 Background:
 
-[Chinese Poetry](http://en.wikipedia.org/wiki/Chinese_poetry)
+{{% resource_link "89b1ae76-c364-41cb-8632-b261477f02ae" "Chinese Poetry" %}}
 
-[Shi(Poetry)](http://en.wikipedia.org/wiki/Shi_%28poetry%29)
+{{% resource_link "e622b2c5-692d-4f3a-a025-a53720ed6c02" "Shi(Poetry)" %}}
 
-[Li Bai](http://en.wikipedia.org/wiki/Li_Bai)
+{{% resource_link "d67cd841-8905-4acb-9beb-2715a7e7818e" "Li Bai" %}}
 
 *Du Fu*
 
 Background:
 
-[Du Fu](http://en.wikipedia.org/wiki/Du_Fu)
+{{% resource_link "8ac58aa4-5271-461d-b5d8-2525ab209fcf" "Du Fu" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -507,11 +507,11 @@ Pine, Red, tr. *Poems of the Masters = Qian jia shi: China's Classic Anthology o
 
 {{< tdclose >}}{{< tdopen >}}
 
-[Du Fu Index](http://www.chinese-poems.com/du.html)
+{{% resource_link "68bd98ef-404a-4afa-859e-1a0ff2575729" "Du Fu Index" %}}
 
-[Li Bai Index](http://www.chinese-poems.com/lb.html)
+{{% resource_link "96717600-d7c5-418b-af91-18b64e1d7c5d" "Li Bai Index" %}}
 
-[\[504\] About Tu Fu](http://www.jstor.org/pss/2052191)
+{{% resource_link "9766eda7-92a5-46b3-b75c-33373a779183" "\[504\] About Tu Fu" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -521,15 +521,15 @@ Pine, Red, tr. *Poems of the Masters = Qian jia shi: China's Classic Anthology o
 
 Background:
 
-[Old English language](http://en.wikipedia.org/wiki/Old_english)
+{{% resource_link "1fca905e-c7d8-454a-82f7-a4b33f39eaa4" "Old English language" %}}
 
-[Middle English](http://en.wikipedia.org/wiki/Middle_english)
+{{% resource_link "51fd0c43-832e-43de-8cee-9d4af40d3e02" "Middle English" %}}
 
 *Anonymous (Middle English)*
 
 Background:
 
-[Sir Gawain and the Green Knight](http://en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight)
+{{% resource_link "7e945eca-3249-4bc1-997a-b6ce85adc33a" "Sir Gawain and the Green Knight" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Sir Gawain and the Green Knight
@@ -543,23 +543,23 @@ Stone, Brian, tr. *Sir Gawain and the Green Knight*. Harmondsworth, UK: Penguin 
 
 Language:
 
-[Middle English Dictionary](http://quod.lib.umich.edu/m/med/)
+{{% resource_link "5f6b4b0e-6cdd-4b05-b071-c1dca3f5007c" "Middle English Dictionary" %}}
 
 Literature:
 
-[Anthology of Middle English Literature (1350-1485)](http://www.luminarium.org/medlit/)
+{{% resource_link "8d6ce334-d901-449f-a4ef-4c566e74a8c5" "Anthology of Middle English Literature (1350-1485)" %}}
 
 *Anonymous (Middle English)*
 
 Full Original Text:
 
-[The Project Gutenberg Etext of The Canterbury Tales and Other Poems by Geoffrey Chaucer (PDF - 1.9MB)](http://www.gutenberg.org/ebooks/2383)
+{{% resource_link "1d1f29e0-7a53-41de-b7a2-793e6bda11fe" "The Project Gutenberg Etext of The Canterbury Tales and Other Poems by Geoffrey Chaucer (PDF - 1.9MB)" %}}
 
 Prose Translations:
 
-[Sir Gawain and The Green Knight](http://www.lib.rochester.edu/CAMELOT/sggk.htm)
+{{% resource_link "812f77b1-fff2-495b-a1f7-3dc2e4313407" "Sir Gawain and The Green Knight" %}}
 
-[Representative Poetry Online](https://rpo.library.utoronto.ca/)
+{{% resource_link "c8922099-aed3-4968-90db-937d6529e648" "Representative Poetry Online" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -569,9 +569,9 @@ Prose Translations:
 
 Background:
 
-[Geoffrey Chaucer](http://en.wikipedia.org/wiki/Geoffrey_Chaucer)
+{{% resource_link "4ba5c099-f18a-418f-959c-4c11c3089149" "Geoffrey Chaucer" %}}
 
-[The Canterbury Tales](http://en.wikipedia.org/wiki/Canterbury_Tales)
+{{% resource_link "48fd83d5-f888-4f60-a582-a4031015290b" "The Canterbury Tales" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 The Canterbury Tales
@@ -590,13 +590,13 @@ Chaucer, Geoffrey. *The Canterbury Tales*. Edited, Introduced, and Notes by Jill
 
 Audio Recordings:
 
-[The Criyng and The Soun](http://www.vmi.edu/fswebs.aspx?tid=34099&id=34249)
+{{% resource_link "70d363ff-b8d1-4e79-9da2-e97bbe1215b1" "The Criyng and The Soun" %}}
 
 Original Text:
 
-[The Canterbury Tales](http://etext.lib.virginia.edu/toc/modeng/public/Cha2Can.html)
+{{% resource_link "3164ac95-28df-4bbb-afdb-d76792078c41" "The Canterbury Tales" %}}
 
-[Geoffrey Chaucer (1342-1440) "The Canterbury Tales"](http://www.librarius.com/cantales.htm)
+{{% resource_link "44283fdf-f5b9-4313-aa84-eac7d1fa067f" "Geoffrey Chaucer (1342-1440) \"The Canterbury Tales\"" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -606,7 +606,7 @@ Original Text:
 
 Background:
 
-[Beowulf](http://en.wikipedia.org/wiki/Beowulf)
+{{% resource_link "2fc9f5a1-8250-494f-805e-0655aaa5d3f7" "Beowulf" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Beowulf
@@ -624,11 +624,11 @@ F. Huppé, Bernard, tr. *Beowulf, a New Translation*. Binghamton, NY: Longman, 2
 
 {{< tdclose >}}{{< tdopen >}}
 
-[Copy of the original *Beowulf* text](http://www.gutenberg.org/ebooks/16328).
+{{% resource_link "e2d712c1-8e84-41a4-9769-dee5734956d3" "Copy of the original *Beowulf* text" %}}.
 
-[Recording of the Old English version of *Beowulf*](https://www.youtube.com/watch?v=_K13GJkGvDw). (YouTube video).
+{{% resource_link "76380e08-6568-45a4-b377-9bf2ce8d94ce" "Recording of the Old English version of *Beowulf*" %}}. (YouTube video).
 
-[Recording of Seamus Heaney reading excerpts from his translation of](https://www.youtube.com/watch?v=AaB0trCztM0) [*Beowulf*](https://www.youtube.com/watch?v=AaB0trCztM0)*.* (YouTube video)
+{{% resource_link "08ef22ef-a0cb-4b8b-bbc7-0c52d90595d0" "Recording of Seamus Heaney reading excerpts from his translation of" %}} {{% resource_link "08ef22ef-a0cb-4b8b-bbc7-0c52d90595d0" "*Beowulf*" %}}*.* (YouTube video)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -638,11 +638,11 @@ F. Huppé, Bernard, tr. *Beowulf, a New Translation*. Binghamton, NY: Longman, 2
 
 Background:
 
-[Jalal ad-Din Muhammad Rumi](http://en.wikipedia.org/wiki/Jalal_ad-Din_Muhammad_Rumi)
+{{% resource_link "8c41de84-3061-47f0-91cf-ed55a7dff84d" "Jalal ad-Din Muhammad Rumi" %}}
 
-[Sufism](http://en.wikipedia.org/wiki/Sufism)
+{{% resource_link "28c8a41b-f8ea-4854-99ab-127f9cab79a3" "Sufism" %}}
 
-[Ghazal](http://en.wikipedia.org/wiki/Ghazal)
+{{% resource_link "5ce7186a-f001-4e56-8bd2-c8cce63abf1b" "Ghazal" %}}
 
 *Omar Khayyám*
 
@@ -650,11 +650,11 @@ The class read selections from the Rubaiyat of Omar Khayyám.
 
 Background:
 
-[Omar Khayyám](http://en.wikipedia.org/wiki/Omar_Khayyam)
+{{% resource_link "0dc1f389-0dc8-42d7-98da-2fdc0544a0c6" "Omar Khayyám" %}}
 
-[Rubaiyat](http://en.wikipedia.org/wiki/Rubaiyat)
+{{% resource_link "27fe2efb-7aac-4b3f-a868-4ce127d6eef2" "Rubaiyat" %}}
 
-[Rubaiyat of Omar Khayyám](https://classics.mit.edu/Khayyam/rubaiyat.html)
+{{% resource_link "f2cbc640-9db4-49ef-b14c-ea770603dd48" "Rubaiyat of Omar Khayyám" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -680,13 +680,13 @@ Jalūl ad-Din Rūumi, Maulana. *Love is a Stranger: Selected Lyric Poetry of Jel
 
 *A Thief in the Night / And He is With Us*
 
-[Divani Shamsi Tabriz](http://www.rumi.org.uk/divan.htm#ATHIEFINTHENIGHT)
+{{% resource_link "3ad9df2f-b094-4632-9ed2-94bbfc3d02e6" "Divani Shamsi Tabriz" %}}
 
 Jalūl ad-Din Rūumi, Maulana. *Love is a Stranger: Selected Lyric Poetry of Jelaluddin Rumi*. Translated by Kabir Edmund Helminski. Putney, VT: Threshold Books, c1993. ISBN: 9780939660322.
 
 *Ghazal 116*
 
-[Rumi 116](http://www.rumionfire.com/shams/rumi116.htm)
+{{% resource_link "8c9050e1-5270-46b3-a42b-6c529ba1aa7f" "Rumi 116" %}}
 
 Jalūl ad-Din Rūumi, Maulana. *Love is a Stranger: Selected Lyric Poetry of Jelaluddin Rumi*. Translated by Kabir Edmund Helminski. Putney, VT: Threshold Books, c1993. ISBN: 9780939660322.
 
@@ -696,15 +696,15 @@ The Rubaiyat are numbered differently in different translations, so the numbers 
 
 Fitzgerald's translation, second edition:
 
-[623\. Rubaiyat of Omar Khayyam of Naishapur](https://www.bartleby.com/lit-hub/hc/english-poetry-ii/623-rubaiyat-of-omar-khayyam-of-naishapur/) - Rubaiyat Number: 1, 12, 19, 58, and 72.
+{{% resource_link "b653b493-9c48-484e-adbf-5f933c7bf988" "623\. Rubaiyat of Omar Khayyam of Naishapur" %}} - Rubaiyat Number: 1, 12, 19, 58, and 72.
 
 Fitzgerald's translation, fifth edition (first also available here):
 
-[The Rubaiyat of Omar Khayam](http://emotional-literacy-education.com/classic-books-online-a/rubai10.htm) - Rubaiyat Number: 1, 12, 19, 58, and 72.
+{{% resource_link "fb28406c-7ae5-4b3f-8409-673898cd513f" "The Rubaiyat of Omar Khayam" %}} - Rubaiyat Number: 1, 12, 19, 58, and 72.
 
-[Medieval Sourcebook: Omar Khayyam (d. 1123 CE): The Rubaiyat, c. 1120](http://www.fordham.edu/halsall/basis/omarkhayyam-rub2.html) - Rubaiyat Number: 452, 104, and 284.
+{{% resource_link "69ab47d0-dff5-4da0-ac92-81831e4322c7" "Medieval Sourcebook: Omar Khayyam (d. 1123 CE): The Rubaiyat, c. 1120" %}} - Rubaiyat Number: 452, 104, and 284.
 
-[\[750\] The Rubaiyat of Omar Khayyam](http://www.abebooks.com/servlet/SearchResults?bi=0&bx=off&ds=30&sortby=1&tn=The+Rubaiyat+of+Omar+Khayyam&x=0&y=0)
+{{% resource_link "8773bd88-94a8-4f85-a4e4-1b86a0bd209a" "\[750\] The Rubaiyat of Omar Khayyam" %}}
 
 A number of translations of the Rubaiyat numbered 12 by Fitzgerald, all of which are to be read.
 
@@ -716,19 +716,19 @@ Khayyam, Omar. *Omar Khayy*á*m, a new version based upon recent discoveries*. T
 
 *Rumi*
 
-[Love Poems of Rumi](http://www.khamush.com/love_poems.html)
+{{% resource_link "ef9d80e8-0c15-4195-8f86-c82d3d8b045e" "Love Poems of Rumi" %}}
 
-[A Tribute to Molana Jalal-e-Din Mohammad Molavi Rumi](http://www.rumionfire.com/)
+{{% resource_link "70845c8a-daee-44fe-a4c0-2d207c14fe29" "A Tribute to Molana Jalal-e-Din Mohammad Molavi Rumi" %}}
 
-[Rumi](http://rumi.org.uk/)
+{{% resource_link "5bcb9856-5aaa-4d27-aa82-bebc0998181c" "Rumi" %}}
 
 Recordings:
 
-[Ghazals from Diwan of Shems](http://depts.washington.edu/llc/olr/persian/PER_010/index.php)
+{{% resource_link "e2ccb465-c4cf-4d47-9ee7-b48205fea970" "Ghazals from Diwan of Shems" %}}
 
 *Omar Khayyám*
 
-[The Keeper: The Legend of Omar Khayyam](http://www.greatomar.com/)
+{{% resource_link "e369d180-fe9d-424b-9867-3b990ca1c5bf" "The Keeper: The Legend of Omar Khayyam" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -770,28 +770,28 @@ Imelda Valerianus-Fermina, "Muhe" ("Woman")
 Belen Kock-Marchena, "Poem"
 
 *Afrikaans Poems*          
-Antjie Krog, ["Neither Family Nor Friends](https://www.poemhunter.com/poem/niether-family-nor-friends/)"
+Antjie Krog, {{% resource_link "28d0905e-fd16-4ea5-ba2c-3155fb2389a6" "\"Neither Family Nor Friends" %}}"
 
 Antjie Krog,           
-["My Words of Love Grow More Tenuous than the Sound of Lilac](https://www.poetryinternational.org/pi/poem/5398/auto/0/0/Antjie-Krog/en/tile)"
+{{% resource_link "38740341-e779-4a64-b9be-f42906668467" "\"My Words of Love Grow More Tenuous than the Sound of Lilac" %}}"
 
 *Swahili Poems*           
 Anonymous,           
-[The Swahili Coast](http://www.pbs.org/wonders/Episodes/Epi2/2_cult2a.htm)
+{{% resource_link "90c18200-8f93-4d54-a131-56b3690f7368" "The Swahili Coast" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
 Background:
 
-[Papiamento](http://en.wikipedia.org/wiki/Papiamento)
+{{% resource_link "64da4319-74de-4888-8f84-9267aaf1e0f8" "Papiamento" %}}
 
-[Afrikaans Language](http://en.wikipedia.org/wiki/Afrikaans)
+{{% resource_link "ac46961d-0514-4680-84e2-e302c0a71e25" "Afrikaans Language" %}}
 
-[Afrikaans Translation](http://www.lexicool.com/articles_004_boshoff.asp?IL=3)
+{{% resource_link "649756d7-16ef-43c9-aaf4-ce3d1977ffb4" "Afrikaans Translation" %}}
 
-[Swahili Language](http://en.wikipedia.org/wiki/Swahili)
+{{% resource_link "e4ce1044-1439-4471-8247-8c8bbd79ffb0" "Swahili Language" %}}
 
-[Swahili Poetry](http://www.glcom.com/hassan/poems/swahili_poems.html)
+{{% resource_link "03584772-d629-4348-9bba-527db7fcbfde" "Swahili Poetry" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
